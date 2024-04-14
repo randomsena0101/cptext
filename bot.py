@@ -46,6 +46,7 @@ bot = Client(
     api_id= 27862677,
     api_hash= "e343ce2c81b2b6c2c0d6bee58284e3bd",    
     bot_token= "6991599062:AAFwn6ubznUzL51Wi5jH0EaODVyck3w4atQ"
+    auth_id= "5925499677"
 )
 
 @bot.on_message(filters.command(["cp"]))
